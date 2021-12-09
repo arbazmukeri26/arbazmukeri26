@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arbaz Mukeri
+- 👋 Hi, I’m Arbaz
 - 👀 I’m Workig on ... Ai-Base voice Assistance Project.
 - 🌱 I’m currently learning ... Python.py
 - 💞️ I’m looking to collaborate on ... SQL

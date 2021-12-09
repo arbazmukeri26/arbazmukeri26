@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Arbaz Mukeri
 - 👀 I’m Workig on ... Ai-Base voice Assistance Project.
 - 🌱 I’m currently learning ... Python.py
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 📫
+- 💞️ I’m looking to collaborate on ... SQL
+- 📫 How to reach me ... Github.com
+- 📫 Ask Me about ... anything
 
 The action of every agent 
 into the world

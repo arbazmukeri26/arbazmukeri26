@@ -17,7 +17,6 @@ based on the OS operating system
 to render one
 fully prepared
 to intra. 
-
   act with the Other ,
   with oneself , 
   with each and every one ,

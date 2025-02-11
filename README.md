@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arbaz
-- 👀 I’m Workig on ... Ai-Base voice Assistance Project.
-- 🌱 I’m currently learning ... Python.py
-- 💞️ I’m looking to collaborate on ... SQL
+- 👀 I’m Workig on ... Ai Darkweb Project.
+-  #Data Scientist
+- 💞️ I’m looking to collaborate on ... Gan AI ML Dl
 - 📫 How to reach me ... Github.com
 - 📫 Ask Me about ... anything
 
